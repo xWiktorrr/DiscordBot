@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 
-TOKEN = "MTQ5ODIwNzIxMTQyNjU0NTY4NQ.GPDWlM.Rth08JcNS-Po00rSF63ziflOpIPvG51VjF-hxM"
+TOKEN = "<Twój Token Bota>"
 
 intents = discord.Intents.default()
 intents.members = True
