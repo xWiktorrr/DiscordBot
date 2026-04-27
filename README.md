@@ -126,7 +126,7 @@ VelocityObecnosc/
 
 ## 🧑‍💻 Autor
 
-Projekt stworzony na potrzeby serwera Discord F1.
+Projekt stworzony na potrzeby serwera Discord F1 w 100% mojego autorstwa.
 
 ---
 
